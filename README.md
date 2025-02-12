@@ -1,16 +1,5 @@
-# alarab_app
+# property-management-console app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+is an application designed to provide efficient management tools for real estate offices.
+It enables offices to organize and manage property-related information effectively.
+With a user-friendly interface and powerful features, this application simplifies property management processes, enhancing operational efficiency."
